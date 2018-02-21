@@ -1,0 +1,65 @@
+[
+    {
+        "id": 3,
+        "firstName": "Yogesh",
+        "lastName": "Lokare",
+        "userEmail": "yogesh.lokare@gmail.com",
+        "userAge": 23,
+        "userPwd": "yogesh123",
+        "userRole": 1
+    },
+    {
+        "id": 5,
+        "firstName": "Pravin",
+        "lastName": "Tumsare",
+        "userEmail": "pravin@gmail.com",
+        "userAge": 27,
+        "userPwd": "pravin123",
+        "userRole": 1
+    },
+    {
+        "id": 6,
+        "firstName": "Mohini",
+        "lastName": "Ghogare",
+        "userEmail": "mohini@gmail.com",
+        "userAge": 22,
+        "userPwd": "mohini123",
+        "userRole": 3
+    },
+    {
+        "id": 7,
+        "firstName": "Manasi",
+        "lastName": "Birhade",
+        "userEmail": "manasi.birhade@gmail.com",
+        "userAge": 22,
+        "userPwd": "manasi123",
+        "userRole": 2
+    },
+    {
+        "id": 8,
+        "firstName": "Sachin",
+        "lastName": "Tendulkar",
+        "userEmail": "sachin@gmail.com",
+        "userAge": 44,
+        "userPwd": "sachin123",
+        "userRole": 4
+    },
+    {
+        "id": 9,
+        "firstName": "Virat",
+        "lastName": "Kohli",
+        "userEmail": "viratn@gmail.com",
+        "userAge": 44,
+        "userPwd": "virat123",
+        "userRole": 3
+    },
+    {
+        "id": 10,
+        "firstName": "Ashish",
+        "lastName": "Nikalje",
+        "userEmail": "Ashish@gmail.com",
+        "userAge": 27,
+        "userPwd": "Ashish",
+        "userRole": 3
+    }
+]
